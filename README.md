@@ -1,1 +1,2 @@
-# Automatic-Costume-Labeling-based-on-DeepFashion-
+# Automatic Costume Labeling
+😄 Graduation Project of School of Software Engineering, Tongji University.
